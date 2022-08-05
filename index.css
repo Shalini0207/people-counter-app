@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: url('images/platform.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+    color: yellow;
+}
+#btn-increament{
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #a95623;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+#btn-save-count{
+    color: #ffffff;
+    font-weight: bold;
+    background-color: green;
+    margin-top: 10px;
+    padding: 10px 38px;
+    border: none;
+    border-radius: 10px;
+}
+#saved-entries{
+    font-size: 25px;
+    font-weight: bolder;
+    color: lightseagreen;
+}
